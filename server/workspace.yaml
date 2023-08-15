@@ -1,0 +1,3 @@
+load_from:
+  - python_module: server_0
+  - python_module: server_1
